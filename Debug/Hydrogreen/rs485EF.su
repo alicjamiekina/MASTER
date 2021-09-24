@@ -1,0 +1,9 @@
+rs485EF.c:67:9:crc_calc	16	static
+rs485EF.c:98:9:crc_calc_TX	16	static
+rs485EF.c:128:6:rs485_init_EF	8	static
+rs485EF.c:138:6:rs485_step_EF	8	static
+rs485EF.c:161:13:sendData_EF	8	static,ignoring_inline_asm
+rs485EF.c:200:13:receiveData_EF	16	static,ignoring_inline_asm
+rs485EF.c:267:13:prepareNewDataToSend_EF	16	static
+rs485EF.c:290:13:processReceivedData_EF	16	static
+rs485EF.c:325:13:resetActData_EF	16	static

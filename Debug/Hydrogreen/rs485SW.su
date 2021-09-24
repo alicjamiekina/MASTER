@@ -1,0 +1,9 @@
+rs485SW.c:67:9:crc_calc_SW	16	static
+rs485SW.c:97:9:crc_calc_TX_SW	16	static
+rs485SW.c:127:6:rs485_init_SW	8	static
+rs485SW.c:138:6:rs485_step_SW	8	static
+rs485SW.c:161:13:sendData_SW	8	static,ignoring_inline_asm
+rs485SW.c:198:13:receiveData_SW	16	static,ignoring_inline_asm
+rs485SW.c:266:13:prepareNewDataToSend_SW	24	static
+rs485SW.c:330:13:processReceivedData_SW	16	static
+rs485SW.c:359:13:resetActData_SW	4	static

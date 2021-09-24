@@ -1,0 +1,5 @@
+hydrogreen.c:33:13:hydrogreen_init	8	static
+hydrogreen.c:48:20:hydrogreen_step1kHz	8	static
+hydrogreen.c:67:20:hydrogreen_step10kHz	8	static
+hydrogreen.c:83:6:hydrogreen_main	8	static
+hydrogreen.c:114:6:hydrogreen_hardFault	4	static

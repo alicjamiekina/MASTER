@@ -1,0 +1,2 @@
+horn.c:14:6:horn_step	8	static
+horn.c:23:6:emergencyButton_step	8	static

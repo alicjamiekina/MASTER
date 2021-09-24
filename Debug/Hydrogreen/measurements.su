@@ -1,0 +1,3 @@
+measurements.c:27:6:measurements_step	8	static
+measurements.c:38:6:laptime	16	static
+measurements.c:77:6:calcSpeed	32	dynamic
